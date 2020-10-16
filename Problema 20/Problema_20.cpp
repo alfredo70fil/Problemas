@@ -1,10 +1,10 @@
 /*
 Instituto Tecnologico de Tijuana
-Depto de Sistemas y Computación
+Depto de Sistemas y ComputaciÃ³n
 Ing. En Sistemas Computacionales
 
 Autor: Avila Jimenez David Alfredo @alfredo70fil
-Repositorio: https://github.com/alfredo70fil/Problemas/Problema_20
+Repositorio: https://github.com/alfredo70fil/Problemas/tree/main/Problema%2020
 
 Objetivo del programa:
 Encontrar la suma de todos los enteros pares del 2 al 2000
