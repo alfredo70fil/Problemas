@@ -1,10 +1,10 @@
 /*
 Instituto Tecnologico de Tijuana
-Depto de Sistemas y Computación
+Depto de Sistemas y ComputaciÃ³n
 Ing. En Sistemas Computacionales
 
 Autor: Avila Jimenez David Alfredo @alfredo70fil
-Repositorio: https://github.com/alfredo70fil/Problemas/Problema_19
+Repositorio: https://github.com/alfredo70fil/Problemas/tree/main/Problema%2019
 
 Objetivo del programa:
 Encontrar la suma de los enterios del 1 al 1000
