@@ -19,5 +19,5 @@ int main(int argc, char** argv) {
 		suma+=i;
 	}
 	cout<<"La suma de los numeros enteros del 2 al 2000 es: "<<suma<<endl;
-	system("pause");
+	getch();
 }
