@@ -22,5 +22,5 @@ int main(int argc, char** argv) {
 		suma+=i;
 		cout<<suma<<endl;
 	}	
-	getch();
+	system("pause");
 }
