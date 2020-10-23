@@ -27,6 +27,6 @@ int main(int argc, char** argv) {
 			cout<<"----------------------"<<endl;
 		}
 	}
-	getch();
+	system("pause");
 }
 
