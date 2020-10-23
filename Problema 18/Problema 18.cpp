@@ -26,5 +26,5 @@ int main(int argc, char** argv) {
 	}
 	cout<<"La suma resultante es: "<<suma<<endl;
 	
-	getch();
+	system("pause");
 }
