@@ -7,7 +7,7 @@ Autor: Avila Jimenez David Alfredo @alfredo70fil
 Repositorio: https://github.com/alfredo70fil/Problemas/tree/main/Problema%2019
 
 Objetivo del programa:
-Encontrar la suma de los enterios del 1 al 1000
+Encontrar la suma de los enteros del 1 al 1000
 */
 #include <iostream>
 using namespace std;
